@@ -1,0 +1,14 @@
+.headertext { color: ivory; font-family: 'Courier New', Courier, monospace;}
+
+.italic { font-style: italic;}
+.bold { font-weight: bold;}
+.linkedincolor{ color: rgb(152, 124, 196); text-decoration: underline;}
+
+
+.resumelist {font-weight: bold; font-style: normal;}
+li { font-size: 18px; font-style: italic; font-weight: normal;}
+a { color: rgb(107, 95, 160); text-decoration: none;}
+.subheader {
+    font-size: small;
+}
+.titlecolor{ color:black; font-family:'Courier New', Courier, monospace;}

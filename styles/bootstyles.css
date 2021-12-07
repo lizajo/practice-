@@ -1,0 +1,42 @@
+.header {
+    top: 5px;
+    left: 5px;
+    right: 5px;
+    height: 50px;
+    
+}
+
+.footer {
+    bottom: 5px;
+    left: 5px;
+    right: 5px;
+    height: 50px;
+    position: fixed;
+}
+
+.body {
+    left: 5px;
+    right: 5px;
+    top: 100px;
+    bottom: 60px;
+
+}
+
+.common { 
+    position: absolute;
+    background-color: ivory;
+    border:solid 2px white
+
+}
+
+.heading{
+    font-weight: bold;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+
+.headingalign {
+  vertical-align:text-top;
+  text-align:left ;
+}
+
