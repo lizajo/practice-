@@ -11,21 +11,20 @@
     left: 5px;
     right: 5px;
     height: 50px;
-    position: fixed;
+    
 }
 
 .body {
-    left: 5px;
-    right: 5px;
-    top: 100px;
-    bottom: 60px;
+    left: 20px;
+    right: 20px;
+    top: 64px;
+    bottom: 64px;
 
 }
 
 .common { 
-    position: absolute;
-    background-color: ivory;
-    border:solid 2px white
+    position: relative;
+    background-color: rgb(134, 167, 187);
 
 }
 
@@ -40,3 +39,17 @@
   text-align:left ;
 }
 
+.tableauformat{
+    height: 25%;
+    width: 50%;
+}
+
+
+p {
+    border:solid 2px black;
+    padding: 6px;
+    width: fit-content;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+a:hover { text-decoration: underline; font-weight: bold;}
